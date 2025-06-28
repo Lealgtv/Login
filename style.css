@@ -52,11 +52,10 @@ section#noticias img{
 }
 section#noticias .categoria{
 	text-align: center;
-@@ -63,4 +64,20 @@
+ @@ -63,4 +64,20 @@
 	font-family: Arial;
 	margin: 25px 0;
 	text-transform: uppercase;
-}
 }
 
 section#noticias ul li a{
@@ -73,4 +72,18 @@ section#noticias ul li a:hover{
 section#noticias ul li p{
 	text-align: center;
 	margin: 15px 0;
+}		
+section#projeto ul li{
+	overflow: hidden;
+	height: 450px;
+	border: 1px solid black;
+	margin: 10px;
+	position: relative;
+}
+section#projetos ul li img{
+    
+}
+section#projetos ul li h3{
+	position: absolute;
+	bottom: 30px;
 }
